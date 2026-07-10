@@ -19,8 +19,6 @@
     "typescript": "5.7.2"
   },
   "pnpm": {
-    "onlyBuiltDependencies": [
-      "sharp"
-    ]
+    "onlyBuiltDependencies": ["sharp"]
   }
 }
